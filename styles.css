@@ -1,0 +1,24 @@
+/**
+ * The stylesheet for the timezonecheck local plugin.
+ *
+ * @package    local
+ * @subpackage timezonecheck
+ * @copyright  &copy; 2014 Nine Lanterns Pty Ltd  {@link http://www.ninelanterns.com.au}
+ * @author     evan.irving-pease
+ * @version    1.0
+ */
+ 
+#timezone-container {
+    width: 100%;
+    background-color: #DFF0D8;
+    border-top: 1px solid #DDDDDD;
+    border-bottom: 1px solid #DDDDDD;
+}
+
+#timezone-warning {
+    padding: 8px 0;
+    margin: 0 auto;
+    width: 930px;
+    color: #333333;
+    font-size: 14px;
+}
